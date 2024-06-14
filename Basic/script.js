@@ -41,3 +41,28 @@ console.log(fruit);
 const birthDay = "5 Mei 1995";
 console.log(birthDay);
 //birthDay = "25 Mei 1995";
+//end Variable
+
+//Data Types
+let dataString = "Veno"; //string
+console.log(dataString)
+console.log(typeof dataString);
+
+let dataNumber = 18.743; //number
+console.log(dataNumber);
+console.log(typeof dataNumber);
+
+let dataBoolean = false; //boolean
+console.log(dataBoolean);
+console.log(typeof dataBoolean);
+
+dataString = 2;
+console.log(dataString)
+console.log(typeof dataString);
+
+let dataKosong; //undifined
+console.log(dataKosong);
+console.log(typeof dataKosong);
+dataKosong = "Veno";
+console.log(dataKosong);
+console.log(typeof dataKosong);
